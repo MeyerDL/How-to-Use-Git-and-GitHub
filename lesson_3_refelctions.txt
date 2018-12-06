@@ -1,1 +1,6 @@
 
+When would you want to use a remote repository rather than keeping all your work local? 
+
+  Easily share files and projects
+  Anyone can clone or download public repositories and even contribute 
+
